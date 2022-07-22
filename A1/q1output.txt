@@ -1,0 +1,8 @@
+[ 5013.743602] Loading Module
+[ 5013.743606] jiffies = 4296145619
+[ 5013.743607] /proc/jiffies created
+[ 5025.711558] Successful Write 4296148611 To: /proc/jiffies
+[ 5027.355168] Successful Write 4296149022 To: /proc/jiffies
+[ 5028.178938] Successful Write 4296149228 To: /proc/jiffies
+[ 5038.911141] Removing Module
+[ 5038.911143] /proc/jiffies removed

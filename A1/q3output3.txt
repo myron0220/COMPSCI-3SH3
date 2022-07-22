@@ -1,0 +1,125 @@
+Test case 1:
+
+Philosopher 4 is thinking for 1 seconds
+Philosopher 3 is thinking for 1 seconds
+Philosopher 2 is thinking for 2 seconds
+Philosopher 1 is thinking for 2 seconds
+Philosopher 0 is thinking for 1 seconds
+Philosopher 4 picks forks 4 and 0
+01110
+Philosopher 4 is eating for 1 seconds
+Philosopher 2 picks forks 2 and 3
+01000
+Philosopher 2 is eating for 1 seconds
+Philosopher 4 returns forks 4 and 0
+11001
+Philosopher 4 is thinking for 1 seconds
+Philosopher 0 picks forks 0 and 1
+00001
+Philosopher 0 is eating for 3 seconds
+Philosopher 2 returns forks 2 and 3
+00111
+Philosopher 2 is thinking for 1 seconds
+Philosopher 3 picks forks 3 and 4
+00100
+Philosopher 3 is eating for 3 seconds
+Philosopher 0 returns forks 0 and 1
+11100
+Philosopher 1 picks forks 1 and 2
+10000
+Philosopher 1 is eating for 1 seconds
+Philosopher 0 is thinking for 1 seconds
+Philosopher 3 returns forks 3 and 4
+10011
+Philosopher 3 is thinking for 3 seconds
+Philosopher 4 picks forks 4 and 0
+00010
+Philosopher 4 is eating for 3 seconds
+Philosopher 1 returns forks 1 and 2
+01110
+Philosopher 1 is thinking for 1 seconds
+Philosopher 2 picks forks 2 and 3
+01000
+Philosopher 2 is eating for 1 seconds
+Philosopher 2 returns forks 2 and 3
+01110
+Philosopher 1 picks forks 1 and 2
+00010
+Philosopher 1 is eating for 1 seconds
+Philosopher 1 returns forks 1 and 2
+01110
+Philosopher 4 returns forks 4 and 0
+11111
+Philosopher 3 picks forks 3 and 4
+11100
+Philosopher 3 is eating for 3 seconds
+Philosopher 0 picks forks 0 and 1
+00100
+Philosopher 0 is eating for 2 seconds
+Philosopher 0 returns forks 0 and 1
+11100
+Philosopher 3 returns forks 3 and 4
+11111
+
+Test case 2:
+
+Philosopher 4 is thinking for 1 seconds
+Philosopher 3 is thinking for 1 seconds
+Philosopher 2 is thinking for 2 seconds
+Philosopher 1 is thinking for 3 seconds
+Philosopher 0 is thinking for 2 seconds
+Philosopher 4 picks forks 4 and 0
+01110
+Philosopher 4 is eating for 1 seconds
+Philosopher 2 picks forks 2 and 3
+01000
+Philosopher 2 is eating for 2 seconds
+Philosopher 4 returns forks 4 and 0
+11001
+Philosopher 4 is thinking for 1 seconds
+Philosopher 0 picks forks 0 and 1
+00001
+Philosopher 0 is eating for 2 seconds
+Philosopher 2 returns forks 2 and 3
+00111
+Philosopher 2 is thinking for 2 seconds
+Philosopher 3 picks forks 3 and 4
+00100
+Philosopher 3 is eating for 1 seconds
+Philosopher 0 returns forks 0 and 1
+11100
+Philosopher 0 is thinking for 2 seconds
+Philosopher 1 picks forks 1 and 2
+10000
+Philosopher 1 is eating for 3 seconds
+Philosopher 3 returns forks 3 and 4
+10011
+Philosopher 3 is thinking for 2 seconds
+Philosopher 4 picks forks 4 and 0
+00010
+Philosopher 4 is eating for 1 seconds
+Philosopher 4 returns forks 4 and 0
+10011
+Philosopher 3 picks forks 3 and 4
+10000
+Philosopher 3 is eating for 3 seconds
+Philosopher 1 returns forks 1 and 2
+11100
+Philosopher 1 is thinking for 2 seconds
+Philosopher 0 picks forks 0 and 1
+00100
+Philosopher 0 is eating for 2 seconds
+Philosopher 0 returns forks 0 and 1
+11100
+Philosopher 1 picks forks 1 and 2
+10000
+Philosopher 1 is eating for 1 seconds
+Philosopher 3 returns forks 3 and 4
+10011
+Philosopher 1 returns forks 1 and 2
+11111
+Philosopher 2 picks forks 2 and 3
+11001
+Philosopher 2 is eating for 3 seconds
+Philosopher 2 returns forks 2 and 3
+11111
